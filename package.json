@@ -1,6 +1,6 @@
 {
   "name": "topcoat-variables-web",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "Variables for web theme.",
   "main": "index.html",
   "style": "src/variables-web.css",
