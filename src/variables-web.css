@@ -22,12 +22,12 @@
   var-font-weight: 400;
   var-font-weight--large: var(font-weight);
   var-letter-spacing: 1px;
-  var-border-radius: 6px;
+  var-border-radius: 4px;
   var-border-radius--large: 30px;
   var-border-radius--huge: 40px;
-  var-padding: 0 1.25rem;
+  var-padding: 0 1rem;
   var-padding--large: var(padding);
-  var-height: 3rem;
+  var-height: 32px;
   var-height--large: 4.375rem;
   var-line-height: var(height);
   var-line-height--large: var(height--large);
@@ -73,4 +73,3 @@
   var-padding-left--switch__label--right: 2rem;
   var-margin-left--switch__toggle--checked: 2.7rem;
 }
-
